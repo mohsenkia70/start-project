@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e9be1cd-d746-484e-acd3-d9f30b47026a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1iNQvvB4dpetulJ3ucThiL8WdQA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\my project\start project" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e9be1cd-d746-484e-acd3-d9f30b47026a" name="Default Changelist" comment="" />
+      <created>1601745804075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601745804075</updated>
+      <workItem from="1601745805231" duration="3679000" />
+      <workItem from="1601750315002" duration="9900000" />
+      <workItem from="1601792159530" duration="3409000" />
+      <workItem from="1601795713126" duration="20158000" />
+      <workItem from="1601818904076" duration="6005000" />
+      <workItem from="1601825012602" duration="46000" />
+      <workItem from="1601836082240" duration="3924000" />
+      <workItem from="1601877357679" duration="29772000" />
+      <workItem from="1601922822436" duration="2463000" />
+      <workItem from="1601966141772" duration="12765000" />
+      <workItem from="1601980410647" duration="23000" />
+      <workItem from="1601981497538" duration="21000" />
+      <workItem from="1602055009911" duration="22000000" />
+      <workItem from="1602146203056" duration="17431000" />
+      <workItem from="1602232701551" duration="7884000" />
+      <workItem from="1602240712172" duration="10846000" />
+      <workItem from="1602308742499" duration="20858000" />
+      <workItem from="1602400920490" duration="23568000" />
+      <workItem from="1602428422656" duration="851000" />
+      <workItem from="1602445203250" duration="280000" />
+      <workItem from="1602445623785" duration="1093000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602425964810">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602425964810" />
+  </component>
+</project>
